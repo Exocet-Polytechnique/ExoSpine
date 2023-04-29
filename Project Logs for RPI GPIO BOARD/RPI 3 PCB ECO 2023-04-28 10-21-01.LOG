@@ -1,0 +1,291 @@
+Change component parameters: Designator = "RPI1" ("RPI1"); Footprint = "RPI"; UniqueID = "\GQAIUVRK" ("\GQAIUVRK")
+Change component parameters (AddParameter): Name = "Accessory Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Development Boards, Kits, Programmers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://cdn.sparkfun.com/datasheets/Dev/RaspberryPi/12313.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.sparkfun.com/datasheets/Dev/RaspberryPi/12313.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "For Use With/Related Products"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PRT-14017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nils Minor"; Value = "author"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nilsminor@web.de"; Value = "mail"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.84 (EUR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1568-1462-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Actuator 1(JST-S4B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Actuator 2(JST-S4B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Actuator 3(JST-S4B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(JST-S2B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(JST-S2B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(JST-S2B-XH-A(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-SL16_L)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revD, Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Lead Plastic Small Outline (SL) - Narrow, 3.90mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SL16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin M1-3
+Add Pin To Net: Unknown Pin: Pin M1-4
+Add Pin To Net: Unknown Pin: Pin M2-3
+Add Pin To Net: Unknown Pin: Pin M2-4
+Add Pin To Net: Unknown Pin: Pin M3-3
+Add Pin To Net: Unknown Pin: Pin M3-4
+Add Pin To Net: Unknown Pin: Pin M4-3
+Add Pin To Net: Unknown Pin: Pin M4-4
+Add Pin To Net: Unknown Pin: Pin M5-3
+Add Pin To Net: Unknown Pin: Pin M5-4
+Add Pin To Net: Unknown Pin: Pin M6-3
+Add Pin To Net: Unknown Pin: Pin M6-4
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R24-1
+Added Pin To Net: NetName=NetRPI1_7 Pin=RPI1-7
+Added Pin To Net: NetName=NetRPI1_8 Pin=RPI1-8
+Added Pin To Net: NetName=NetRPI1_11 Pin=RPI1-11
+Added Pin To Net: NetName=NetRPI1_15 Pin=RPI1-15
+Added Pin To Net: NetName=NetRPI1_19 Pin=RPI1-19
+Added Pin To Net: NetName=NetRPI1_21 Pin=RPI1-21
+Added Pin To Net: NetName=NetRPI1_23 Pin=RPI1-23
+Added Pin To Net: NetName=NetRPI1_24 Pin=RPI1-24
+Added Pin To Net: NetName=NetRPI1_26 Pin=RPI1-26
+Added Pin To Net: NetName=GND Pin=RPI1-30
+Added Pin To Net: NetName=GND Pin=RPI1-34
+Added Pin To Net: NetName=NetRPI1_38 Pin=RPI1-38
+Added Pin To Net: NetName=GND Pin=RPI1-39
+Added Pin To Net: NetName=NetRPI1_40 Pin=RPI1-40
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetRPI1_15 Pin=U1-10
+Added Pin To Net: NetName=NetRPI1_19 Pin=U1-11
+Added Pin To Net: NetName=NetRPI1_21 Pin=U1-12
+Added Pin To Net: NetName=NetRPI1_23 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=+3V3 Pin=U1-15
+Added Pin To Net: NetName=+3V3 Pin=U1-16
+Added Pin To Net: NetName=NetActuator 1_1 Pin=Actuator 1-1
+Added Net: Name=NetActuator 1_1
+Added Pin To Net: NetName=NetActuator 1_2 Pin=Actuator 1-2
+Added Net: Name=NetActuator 1_2
+Added Pin To Net: NetName=NetActuator 1_3 Pin=Actuator 1-3
+Added Net: Name=NetActuator 1_3
+Added Pin To Net: NetName=NetActuator 1_4 Pin=Actuator 1-4
+Added Net: Name=NetActuator 1_4
+Added Pin To Net: NetName=NetActuator 2_1 Pin=Actuator 2-1
+Added Net: Name=NetActuator 2_1
+Added Pin To Net: NetName=NetActuator 2_2 Pin=Actuator 2-2
+Added Net: Name=NetActuator 2_2
+Added Pin To Net: NetName=NetActuator 2_3 Pin=Actuator 2-3
+Added Net: Name=NetActuator 2_3
+Added Pin To Net: NetName=NetActuator 2_4 Pin=Actuator 2-4
+Added Net: Name=NetActuator 2_4
+Added Pin To Net: NetName=NetActuator 3_1 Pin=Actuator 3-1
+Added Net: Name=NetActuator 3_1
+Added Pin To Net: NetName=NetActuator 3_2 Pin=Actuator 3-2
+Added Net: Name=NetActuator 3_2
+Added Pin To Net: NetName=NetActuator 3_3 Pin=Actuator 3-3
+Added Net: Name=NetActuator 3_3
+Added Pin To Net: NetName=NetActuator 3_4 Pin=Actuator 3-4
+Added Net: Name=NetActuator 3_4
+Added Pin To Net: NetName=NetM1_2 Pin=RPI1-33
+Added Net: Name=NetM1_2
+Added Pin To Net: NetName=NetM2_2 Pin=RPI1-37
+Added Net: Name=NetM2_2
+Added Pin To Net: NetName=NetM3_2 Pin=RPI1-13
+Added Net: Name=NetM3_2
+Added Pin To Net: NetName=NetM4_2 Pin=RPI1-35
+Added Net: Name=NetM4_2
+Added Pin To Net: NetName=NetM5_2 Pin=RPI1-18
+Added Net: Name=NetM5_2
+Added Pin To Net: NetName=NetM6_2 Pin=RPI1-22
+Added Net: Name=NetM6_2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetR1_1 Pin=RPI1-29
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=RPI1-31
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-4
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-5
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-6
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=RPI1-12
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=RPI1-16
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR21_1 Pin=RPI1-32
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=RPI1-36
+Added Net: Name=NetR22_1
+Added Member To Class: ClassName=RPI 3 Member=Component Actuator 1 S4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=RPI 3 Member=Component Actuator 2 S4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=RPI 3 Member=Component Actuator 3 S4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component M1 N-channel MOSFET HISIM_HV1 v1.2.4 Model
+Add Class Member: Failed to add class member : Component M2 N-channel MOS1 MOSFET Shichman and Hodges Model
+Add Class Member: Failed to add class member : Component M3 N-channel MOSFET HISIM_HV1 v1.2.4 Model
+Add Class Member: Failed to add class member : Component M4 N-channel MOS1 MOSFET Shichman and Hodges Model
+Add Class Member: Failed to add class member : Component M5 N-channel MOSFET HISIM_HV1 v1.2.4 Model
+Add Class Member: Failed to add class member : Component M6 N-channel MOS1 MOSFET Shichman and Hodges Model
+Added Member To Class: ClassName=RPI 3 Member=Component P1 S2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=RPI 3 Member=Component P2 S2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=RPI 3 Member=Component P3 S2B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R16 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R18 Resistor
+Add Class Member: Failed to add class member : Component R19 Resistor
+Add Class Member: Failed to add class member : Component R20 Resistor
+Add Class Member: Failed to add class member : Component R21 Resistor
+Add Class Member: Failed to add class member : Component R22 Resistor
+Add Class Member: Failed to add class member : Component R23 Resistor
+Add Class Member: Failed to add class member : Component R24 Resistor
+Added Member To Class: ClassName=RPI 3 Member=Component RPI1 RPI GPIO Connector
+Added Member To Class: ClassName=RPI 3 Member=Component U1 MCP3008-I/SL
+Added Room: Name=RPI 3
