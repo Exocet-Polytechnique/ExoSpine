@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=M? NewDesignator=M2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Net Name : Old Net Name=NetM?_1 New Net Name=NetM1_1
+Change Net Name : Old Net Name=NetM?_3 New Net Name=NetM1_3
+Added Pin To Net: NetName=NetM2_1 Pin=M2-1
+Added Pin To Net: NetName=NetM2_1 Pin=R2-1
+Added Pin To Net: NetName=NetM2_1 Pin=RPI1-33
+Added Net: Name=NetM2_1
+Added Pin To Net: NetName=NetM2_3 Pin=M2-3
+Added Pin To Net: NetName=NetM2_3 Pin=P4-11
+Added Net: Name=NetM2_3
+Added Member To Class: ClassName=RPI 3 Member=Component M1 BSS138
+Added Member To Class: ClassName=RPI 3 Member=Component R2 Resistor 10K  +/-1 % 0402 63 mW

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=P1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=P1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=P2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=P2-2
+Added Pin To Net: NetName=NetC2_2 Pin=P1-1
+Added Pin To Net: NetName=NetC1_2 Pin=P1-2
+Added Pin To Net: NetName=NetC4_2 Pin=P2-1
+Added Pin To Net: NetName=NetC3_2 Pin=P2-2
+Added Room: Name=RPI 3

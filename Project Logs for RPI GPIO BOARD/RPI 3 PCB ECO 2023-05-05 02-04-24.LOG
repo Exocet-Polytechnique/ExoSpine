@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=NetR5_1 Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Pin From Net: NetName=NetRPI1_22 Pin=U1-10
+Removed Pin From Net: NetName=NetRPI1_19 Pin=U1-11
+Removed Pin From Net: NetName=NetRPI1_23 Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=+3V3 Pin=U1-15
+Removed Pin From Net: NetName=+3V3 Pin=U1-16
+Removed Member From Class: ClassName=RPI 3 Member=P3
+Removed Member From Class: ClassName=RPI 3 Member=R7
+Removed Member From Class: ClassName=RPI 3 Member=R8
+Removed Member From Class: ClassName=RPI 3 Member=R9
+Removed Member From Class: ClassName=RPI 3 Member=R10
+Removed Member From Class: ClassName=RPI 3 Member=R15
+Removed Member From Class: ClassName=RPI 3 Member=R16
+Removed Member From Class: ClassName=RPI 3 Member=R17
+Removed Member From Class: ClassName=RPI 3 Member=R18
+Removed Member From Class: ClassName=RPI 3 Member=R19
+Removed Member From Class: ClassName=RPI 3 Member=R20
+Change Component Footprint: Designator=P1 Old Footprint=JST-S2B-XH-A(LF)(SN)_V New Footprint=JST-S2B-PH-K-S_V
+Change Component Footprint: Designator=P2 Old Footprint=JST-S2B-XH-A(LF)(SN)_V New Footprint=JST-S2B-PH-K-S_V
+Change Component Footprint: Designator=R6 Old Footprint=RESC1005X40X25LL05T10 New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R5 Old Footprint=RESC1005X40X25LL05T10 New Footprint=RESC1005X40X25ML10T10
+Change Component Footprint: Designator=U1 Old Footprint=SOIC-SL16_L New Footprint=TSSOP-ST14_L
+Change Component Comment : Designator=U1 Old Comment=MCP3008-I/SL New Comment=MCP3004-I/ST
+Change Component Comment : Designator=R5 Old Comment=RES New Comment=Resistor 1k +/-5% 0402 63 mW
+Change Component Comment : Designator=R6 Old Comment=RES New Comment=Resistor 2K2  +/-5 % 0402 63 mW
+Change Component Comment : Designator=P1 Old Comment=S2B-XH-A(LF)(SN) New Comment=S2B-PH-K-S(LF)(SN)
+Change Component Comment : Designator=P2 Old Comment=S2B-XH-A(LF)(SN) New Comment=S2B-PH-K-S(LF)(SN)
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 New VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 Old ItemGUID=2D38D339-A7B9-4AF7-A4ED-8EAB226E0FBE New ItemGUID=44C11FBB-4E0D-4F67-A152-BDC120139D9C Old RevisionGUID=2DA44A84-00D2-421E-88AF-C68D6FCA64D2 New RevisionGUID=295419E1-26E6-4465-9AF3-6F324ED3B373
+Change Managed Component Library Link : Designator=P2 Old VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 New VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 Old ItemGUID=2D38D339-A7B9-4AF7-A4ED-8EAB226E0FBE New ItemGUID=44C11FBB-4E0D-4F67-A152-BDC120139D9C Old RevisionGUID=2DA44A84-00D2-421E-88AF-C68D6FCA64D2 New RevisionGUID=295419E1-26E6-4465-9AF3-6F324ED3B373
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 New VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 Old ItemGUID=02f245d4-ad27-4f9c-9268-dea4fe30d354 New ItemGUID=93A3E69C-5E99-4A05-BBA0-31B7563F625C Old RevisionGUID=acd1e91d-6d57-4e0a-bbc6-58b3510ac2f8 New RevisionGUID=035C1134-7408-448C-9C3D-D6E9DE9EE2DA
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 New VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 Old ItemGUID=02f245d4-ad27-4f9c-9268-dea4fe30d354 New ItemGUID=1D26BC3A-B65B-4CC7-BB6E-F30454B5079F Old RevisionGUID=acd1e91d-6d57-4e0a-bbc6-58b3510ac2f8 New RevisionGUID=850107D8-895D-4834-89B6-D83AA0D23195
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=2FC50CF3-2D48-4455-9BE5-C21A4225FBD0 Old ItemGUID=49EF66CE-E541-44EE-87DA-FF089D65A87B New ItemGUID=df1dc75c-1fe0-47c0-985b-9f7141ec1754 Old RevisionGUID=1176061F-AFCA-4400-9463-3F5D8E756116 New RevisionGUID=6209df7e-2502-47b0-b3db-bb4b93ba003c
+Change component parameters: Designator = "P1" ("P1"); Footprint = "JST-S2B-XH-A(LF)(SN)_V"; UniqueID = "\STOQRLBA" ("\STOQRLBA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "S2B-PH-K-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Japan Solderless Terminals"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "S2B-PH-K-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "JST-S2B-XH-A(LF)(SN)_V"; UniqueID = "\DKUVZMZI" ("\DKUVZMZI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "S2B-PH-K-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Japan Solderless Terminals"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2 mm, 1 x 2 Position, Height 4.8 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "S2B-PH-K-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\WYKUXLUH" ("\WYKUXLUH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\AOLFLXWR" ("\AOLFLXWR")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOIC-SL16_L"; UniqueID = "\VBNECQQS" ("\VBNECQQS")
+Added Component: Designator=C1(CAPC1005X55X25ML5T10)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1005X55X25ML5T10)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1005X55X25ML5T10)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1005X55X25ML5T10)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetR5_1 Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=RPI1-21
+Added Pin To Net: NetName=NetRPI1_22 Pin=U1-8
+Added Pin To Net: NetName=NetRPI1_19 Pin=U1-9
+Added Pin To Net: NetName=NetRPI1_23 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=+5V Pin=U1-13
+Added Pin To Net: NetName=+5V Pin=U1-14
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=P1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=P1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=P2-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-4
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=P2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-10
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=RPI 3 Member=Component C1 Capacitor 1 uF +/- 10% 6.3 V 1005
+Added Member To Class: ClassName=RPI 3 Member=Component C2 Capacitor 1 uF +/- 10% 6.3 V 1005
+Added Member To Class: ClassName=RPI 3 Member=Component C3 Capacitor 1 uF +/- 10% 6.3 V 1005
+Added Member To Class: ClassName=RPI 3 Member=Component C4 Capacitor 1 uF +/- 10% 6.3 V 1005
+Added Room: Name=RPI 3

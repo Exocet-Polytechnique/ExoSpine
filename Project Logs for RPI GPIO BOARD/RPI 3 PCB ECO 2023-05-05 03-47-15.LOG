@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetP4_7 Pin=RPI1-16
+Removed Pin From Net: NetName=NetP4_8 Pin=RPI1-18
+Removed Pin From Net: NetName=NetP4_1 Pin=RPI1-29
+Removed Pin From Net: NetName=NetP4_2 Pin=RPI1-31
+Added Pin To Net: NetName=NetP4_1 Pin=RPI1-16
+Added Pin To Net: NetName=NetP4_7 Pin=RPI1-18
+Added Pin To Net: NetName=NetP4_2 Pin=RPI1-29
+Added Pin To Net: NetName=NetP4_8 Pin=RPI1-31
