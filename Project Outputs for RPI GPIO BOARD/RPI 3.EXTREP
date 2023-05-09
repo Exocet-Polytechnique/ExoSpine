@@ -1,18 +1,20 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: RPI 3.GBR   2023-05-09  16:49:57
+Gerber File Extension Report For: RPI 3.GBR   2023-05-09  16:58:06
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTO                Top Overlay                             
-.GTP                Top Paste                               
-.GTS                Top Solder                              
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
-.GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
-.GBO                Bottom Overlay                          
-.GM                 Profile                                 
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
 ------------------------------------------------------------------------------------------
