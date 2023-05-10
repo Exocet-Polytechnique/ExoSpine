@@ -1,22 +1,12 @@
-Output: Gerber X2 Files
-Type  : GerberX2
-From  : Variant [[No Variations]] of Project [RPI GPIO BOARD.PrjPcb]
-   Generated File[RPI 3_Copper_Signal_Top.gbr]
-   Generated File[RPI 3_Copper_Signal_Bot.gbr]
-   Generated File[RPI 3_Legend_Top.gbr]
-   Generated File[RPI 3_Legend_Bot.gbr]
-   Generated File[RPI 3_Soldermask_Top.gbr]
-   Generated File[RPI 3_Soldermask_Bot.gbr]
-   Generated File[RPI 3_Paste_Top.gbr]
-   Generated File[RPI 3_Paste_Bot.gbr]
-   Generated File[RPI 3_Profile.gbr]
-   Generated File[RPI 3_NPTH_Drill.gbr]
-   Generated File[RPI 3_PTH_Drill.gbr]
-   Generated File[RPI 3.EXTREP]
-   Generated File[RPI 3.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RPI GPIO BOARD.PrjPcb]
+   Generated File[RPI 3.TXT]
+   Generated File[RPI 3.LDP]
+   Generated File[RPI 3.DRR]
 
 
-Files Generated   : 13
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 16:58:09 On 2023-05-09
+Finished Output Generation At 11:25:30 PM On 2023-05-09

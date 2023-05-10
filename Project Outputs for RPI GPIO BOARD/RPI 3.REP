@@ -2,8 +2,10 @@
 FileName = RPI 3.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : RPI 3_Copper_Signal_Top.gbr
+Generating : Top Solder
+      File : RPI 3.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,12 +13,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
     D16
     D17
     D18
@@ -36,11 +32,15 @@ Used DCodes :
     D32
     D33
     D34
+    D35
+    D36
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : RPI 3_Copper_Signal_Bot.gbr
+Generating : Bottom Solder
+      File : RPI 3.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -48,9 +48,6 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D17
-    D21
     D22
     D23
     D24
@@ -66,41 +63,28 @@ Used DCodes :
     D34
     D35
     D36
+    D61
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : RPI 3_Legend_Top.gbr
+      File : RPI 3.GTO
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : RPI 3_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D39
-    D41
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : RPI 3_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
+Generating : Top Layer
+      File : RPI 3.GTL
 
     Adding Layer      : Top Layer
 
@@ -108,6 +92,14 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D11
+    D14
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
     D43
     D44
     D45
@@ -124,18 +116,11 @@ Used DCodes :
     D56
     D57
     D58
-    D59
-    D60
-    D61
-    D62
-    D63
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : RPI 3_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : RPI 3.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -143,6 +128,12 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D14
+    D43
+    D45
+    D46
+    D47
+    D48
     D49
     D50
     D51
@@ -155,88 +146,26 @@ Used DCodes :
     D58
     D59
     D60
-    D61
-    D62
-    D63
-    D64
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : RPI 3_Paste_Top.gbr
+Generating : Bottom Overlay
+      File : RPI 3.GBO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D11
     D12
-    D13
     D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : RPI 3_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
 *************************************************************
 
 *************************************************************
 Generating : Profile
-      File : RPI 3_Profile.gbr
+      File : RPI 3.GM
 
 
 Used DCodes :
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : RPI 3_NPTH_Drill.gbr
-
-
-Used DCodes :
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : RPI 3_PTH_Drill.gbr
-
-
-Used DCodes :
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
+    D62
 *************************************************************
 
